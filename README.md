@@ -6,16 +6,12 @@
 
 ## EDA 
 1. Number of Characters in Each Question
-* Applicant income data was heavily right skewed, with the vast majority (500+) of applicants making $18000 or less dollars.
 
 2. Number of  Words in Each Question
-* Applicants who graduated from post-secondary education tend to make almost $2000 more on than applicants who do not.
 
 3. Top Stopwords
-* Sorts applicant incomes by the property they reside in, and whether they are married (yes or no) and self employed (yes or no).
 
 4. Top Words
-* Male applicants who graduated make more than males who have not graduated, and females in general. Whereas females in general make more than males who did not graduate.
 
 ## Process
 1. Load Dataset
